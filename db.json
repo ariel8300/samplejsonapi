@@ -1,86 +1,87 @@
 {
-  [{
-    airport: {
-      iata: "DUB",
-      name: "דאבלין - אירלנד"
+    "bestAirports": [{
+      "airport": {
+        "iata": "DUB",
+        "name": "דאבלין - אירלנד"
+      },
+      "amount": 305
     },
-    amount: 305
-  },
-  {
-    airport: {
-      iata: "BUK",
-      name: "בוקרשט"
+    {
+      "airport": {
+        "iata": "BUK",
+        "name": "בוקרשט"
+      },
+      "amount": 204
     },
-    amount: 204
-  },
-  {
-    airport: {
-      iata: "DUB",
-      name: "דאבלין - אירלנד"
+    {
+      "airport": {
+        "iata": "DUB",
+        "name": "דאבלין - אירלנד"
+      },
+      "amount": 397
     },
-    amount: 397
-  },
-  {
-    airport: {
-      iata: "OST",
-      name: "אוסלו"
+    {
+      "airport": {
+        "iata": "OST",
+        "name": "אוסלו"
+      },
+      "amount": 617
     },
-    amount: 617
-  },
-  {
-    airport: {
-      iata: "BUD",
-      name: "בודפשט"
+    {
+      "airport": {
+        "iata": "BUD",
+        "name": "בודפשט"
+      },
+      "amount": 221
     },
-    amount: 221
-  },
-  {
-    airport: {
-      iata: "TAW",
-      name: "טייוואן"
+    {
+      "airport": {
+        "iata": "TAW",
+        "name": "טייוואן"
+      },
+      "amount": 980
     },
-    amount: 980
-  },
-  {
-    airport: {
-      iata: "TYO",
-      name: "טוקיו - יפן"
+    {
+      "airport": {
+        "iata": "TYO",
+        "name": "טוקיו - יפן"
+      },
+      "amount": 567
     },
-    amount: 567
-  },
-  {
-    airport: {
-      iata: "MAN",
-      name: "מנילה - פיליפינים"
+    {
+      "airport": {
+        "iata": "MAN",
+        "name": "מנילה - פיליפינים"
+      },
+      "amount": 331
     },
-    amount: 331
-  },
-  {
-    airport: {
-      iata: "BER",
-      name: "ברלין - גרמניה"
+    {
+      "airport": {
+        "iata": "BER",
+        "name": "ברלין - גרמניה"
+      },
+      "amount": 883
     },
-    amount: 883
-  },
-  {
-    airport: {
-      iata: "TLV",
-      name: "תל אביב"
+    {
+      "airport": {
+        "iata": "TLV",
+        "name": "תל אביב"
+      },
+      "amount": 1006
     },
-    amount: 1006
-  },
-  {
-    airport: {
-      iata: "MSC",
-      name: "מוסקבה - רוסיה"
+    {
+      "airport": {
+        "iata": "MSC",
+        "name": "מוסקבה - רוסיה"
+      },
+      "amount": 787
     },
-    amount: 787
-  },
-  {
-    airport: {
-      iata: "ATL",
-      name: "אטלנטה"
-    },
-    amount: 122
-  }]
-}
+    {
+      "airport": {
+        "iata": "ATL",
+        "name": "אטלנטה"
+      },
+      "amount": 122
+    }]
+  }
+  
