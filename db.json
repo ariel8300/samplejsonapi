@@ -1,0 +1,86 @@
+{
+  [{
+    airport: {
+      iata: "DUB",
+      name: "דאבלין - אירלנד"
+    },
+    amount: 305
+  },
+  {
+    airport: {
+      iata: "BUK",
+      name: "בוקרשט"
+    },
+    amount: 204
+  },
+  {
+    airport: {
+      iata: "DUB",
+      name: "דאבלין - אירלנד"
+    },
+    amount: 397
+  },
+  {
+    airport: {
+      iata: "OST",
+      name: "אוסלו"
+    },
+    amount: 617
+  },
+  {
+    airport: {
+      iata: "BUD",
+      name: "בודפשט"
+    },
+    amount: 221
+  },
+  {
+    airport: {
+      iata: "TAW",
+      name: "טייוואן"
+    },
+    amount: 980
+  },
+  {
+    airport: {
+      iata: "TYO",
+      name: "טוקיו - יפן"
+    },
+    amount: 567
+  },
+  {
+    airport: {
+      iata: "MAN",
+      name: "מנילה - פיליפינים"
+    },
+    amount: 331
+  },
+  {
+    airport: {
+      iata: "BER",
+      name: "ברלין - גרמניה"
+    },
+    amount: 883
+  },
+  {
+    airport: {
+      iata: "TLV",
+      name: "תל אביב"
+    },
+    amount: 1006
+  },
+  {
+    airport: {
+      iata: "MSC",
+      name: "מוסקבה - רוסיה"
+    },
+    amount: 787
+  },
+  {
+    airport: {
+      iata: "ATL",
+      name: "אטלנטה"
+    },
+    amount: 122
+  }]
+}
